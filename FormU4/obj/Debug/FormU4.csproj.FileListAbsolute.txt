@@ -1,0 +1,11 @@
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\bin\Debug\FormU4.exe.config
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\bin\Debug\FormU4.exe
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\bin\Debug\FormU4.pdb
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.csproj.AssemblyReference.cache
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.Form1.resources
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.Properties.Resources.resources
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.csproj.GenerateResource.cache
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.csproj.CoreCompileInputs.cache
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.exe
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.pdb
+C:\Users\TheWichol45\source\repos\FormU4\FormU4\obj\Debug\FormU4.exe.config
